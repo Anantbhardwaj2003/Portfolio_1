@@ -14,6 +14,7 @@ export default function Contact() {
     { icon: <FaGithub />, label: 'GitHub', url: 'https://github.com/Anantbhardwaj2003' },
     { icon: <FaLinkedin />, label: 'LinkedIn', url: 'https://www.linkedin.com/in/anant-bhardwaj-b34417292/' },
     { icon: <FaTwitter />, label: 'Twitter', url: 'https://x.com/home' },
+
   ];
 
   const handleSubmit = (e) => {
